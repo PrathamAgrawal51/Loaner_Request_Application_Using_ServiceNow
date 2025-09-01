@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>1</order>
+        <published_ref/>
+        <question display_value="Item type">265a4b039f4122107f441543ab24abf8</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-26 12:18:38</sys_created_on>
+        <sys_id>265a8b039f4122107f441543ab24ab04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptop</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">1fb595d89f8522107f441543ab24abdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">1fb595d89f8522107f441543ab24abdb</sys_scope>
+        <sys_update_name>question_choice_265a8b039f4122107f441543ab24ab04</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-26 12:18:38</sys_updated_on>
+        <text>Laptop</text>
+        <value>cmdb_ci_computer</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=265a8b039f4122107f441543ab24ab04"/>
+</record_update>
